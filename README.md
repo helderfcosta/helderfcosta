@@ -1,6 +1,6 @@
 # Olá, eu sou o Hélder 👋
 
-Estudante de **Banco de Dados na FATEC São José dos Campos** (Prof. Jessen Vidal). Gosto de resolver problemas com tecnologia e tenho interesse em **inteligência artificial** e **visão computacional**.
+Estudante de **Banco de Dados na FATEC São José dos Campos** (Prof. Jessen Vidal). Gosto de aprender a resolver problemas na área de tecnologia, sempre aprendendo.
 
 📍 São José dos Campos, SP · 💼 [LinkedIn](https://www.linkedin.com/in/helder-costa-5607a53b2/)
 
